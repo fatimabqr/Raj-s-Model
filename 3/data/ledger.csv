@@ -1,0 +1,37 @@
+ticker,order_type,label,quantity,price,net_cash,timestamp
+MU,Market - Buy,Micron Technology Inc.,265,816.51,-216375.15,11/11/2026 - 15:06
+GOOG,Market - Buy,Alphabet Inc - Ordinary Shares - Class C,675,296.22,-199948.5,11/12/2026 - 15:33
+BAC,Market - Buy,Bank Of America Corp.,6330,50.55,-319981.5,11/12/2026 - 15:42
+HSBC,Market - Buy,HSBC Holdings plc - ADR,2242,89.2,-199986.4,11/12/2026 - 15:45
+WMK,Market - Buy,"Weis Markets, Inc.",2036,78.75,-160335.0,11/13/2026 - 13:35
+PEP,Market - Buy,PepsiCo Inc,1105,144.8,-160004.0,11/13/2026 - 13:37
+SBUX,Market - Buy,Starbucks Corp.,2244,106.96,-240018.24,11/13/2026 - 15:08
+RCL,Market - Buy,Royal Caribbean Group,742,323.66,-240155.72,11/13/2026 - 15:09
+CNR,Market - Buy,Cornerstone Building Brands Inc,1956,86.15,-168509.4,11/13/2026 - 15:32
+PBF,Market - Buy,PBF Energy Inc - Ordinary Shares - Class A,1583,70.83,-112123.89,11/13/2026 - 15:33
+IBM,Market - Buy,International Business Machines Corp.,1134,247.31,-280449.54,11/13/2026 - 15:43
+NVO,Market - Buy,Novo Nordisk - ADR,5204,41.52,-216070.08,11/13/2026 - 15:47
+LLY,Market - Buy,Lilly(Eli) & Co,100,1442.03,-144203.0,11/13/2026 - 15:47
+LMT,Market - Buy,Lockheed Martin Corp.,485,594.76,-288458.6,11/13/2026 - 15:52
+CAT,Market - Buy,Caterpillar Inc.,321,599.02,-192285.42,11/13/2026 - 15:53
+NOC,Market - Buy,Northrop Grumman Corp.,400,549.45,-219780.0,11/13/2026 - 15:58
+GE,Market - Buy,GE Aerospace,600,331.32,-198792.0,11/13/2026 - 15:58
+TDG,Market - Buy,Transdigm Group Incorporated,100,1215.78,-121578.0,11/13/2026 - 15:59
+IBM,Market - Sell,International Business Machines Corp.,-1134,230.31,261171.54,11/18/2026 - 09:32
+HSBC,Market - Sell,HSBC Holdings plc - ADR,-2242,85.94,192677.48,11/18/2026 - 09:32
+INTC,Limit - Buy,Intel Corp.,4750,54.43,-258542.5,11/18/2026 - 09:36
+PBF,Stop - Sell,PBF Energy Inc - Ordinary Shares - Class A,-1583,63.15,99966.45,11/18/2026 - 10:13
+SWK,Market - Buy,Stanley Black & Decker Inc,1805,110.7,-199813.5,11/18/2026 - 15:58
+SWK,Market - Buy,Stanley Black & Decker Inc,500,110.79,-55395.0,11/18/2026 - 15:59
+SBUX,Market - Sell,Starbucks Corp.,-2244,108.22,242845.68,11/19/2026 - 09:33
+TDG,Market - Buy,Transdigm Group Incorporated,100,1180.0,-118000.0,11/19/2026 - 09:33
+WAT,Market - Buy,Waters Corp.,468,471.8,-220802.4,11/19/2026 - 09:35
+MU,Market - Buy,Micron Technology Inc.,68,701.66,-47712.88,11/19/2026 - 12:46
+LLY,Market - Sell,Lilly(Eli) & Co,-100,1357.97,135797.0,11/20/2026 - 09:30
+SWK,Stop - Sell,Stanley Black & Decker Inc,-2305,105.0,242025.0,11/20/2026 - 09:30
+RCL,Stop - Sell,Royal Caribbean Group,-742,303.0,224826.0,11/20/2026 - 09:30
+MU,Market - Sell,Micron Technology Inc.,-333,620.12,206499.96,11/20/2026 - 11:11
+PEP,Market - Buy,PepsiCo Inc,1125,142.16,-159930.0,11/20/2026 - 12:58
+COCO,Market - Buy,Vita Coco Company Inc (The),3100,64.71,-200601.0,11/20/2026 - 14:11
+AON,Market - Buy,Aon plc. - Ordinary Shares - Class A,530,333.28,-176638.4,11/20/2026 - 15:53
+TXNM,Market - Buy,TXNM Energy Inc.,2125,58.91,-125183.75,11/20/2026 - 15:54

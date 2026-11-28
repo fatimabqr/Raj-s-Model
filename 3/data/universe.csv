@@ -1,0 +1,174 @@
+ticker,name,sector,country
+PEP,"PepsiCo, Inc.",Consumer Defensive,US
+BAC,Bank of America Corporation,Financial Services,US
+LMT,Lockheed Martin Corporation,Industrials,US
+INTC,Intel Corp.,Technology,US
+TDG,TransDigm Group Incorporated,Industrials,US
+NOC,Northrop Grumman Corporation,Industrials,US
+WAT,Waters Corporation,Healthcare,US
+COCO,"The Vita Coco Company, Inc.",Consumer Defensive,US
+NVO,Novo Nordisk A/S,Healthcare,DK
+GE,GE Aerospace,Industrials,US
+GOOG,Alphabet Inc. (Class C),Communication Services,US
+AON,Aon plc,Financial Services,IE
+CAT,Caterpillar Inc.,Industrials,US
+WMK,"Weis Markets, Inc.",Consumer Defensive,US
+CNR,"Core Natural Resources, Inc.",Energy,US
+TXNM,"TXNM Energy, Inc.",Utilities,US
+MU,"Micron Technology, Inc.",Technology,US
+IBM,International Business Machines Corporation,Technology,US
+RCL,Royal Caribbean Cruises Ltd.,Consumer Cyclical,US
+SWK,"Stanley Black & Decker, Inc.",Industrials,US
+PBF,PBF Energy Inc.,Energy,US
+LLY,Eli Lilly and Company,Healthcare,US
+HSBC,HSBC Holdings plc,Financial Services,GB
+SBUX,Starbucks Corporation,Consumer Cyclical,US
+SCCO,Southern Copper Corporation,Basic Materials,US
+NEM,Newmont Corporation,Basic Materials,US
+ECL,Ecolab Inc.,Basic Materials,US
+SHW,The Sherwin-Williams Company,Basic Materials,US
+APD,"Air Products and Chemicals, Inc.",Basic Materials,US
+FCX,Freeport-McMoRan Inc.,Basic Materials,US
+NUE,Nucor Corporation,Basic Materials,US
+VYLR,Vylor Inc.,Basic Materials,US
+AU,AngloGold Ashanti Plc,Basic Materials,US
+VMC,Vulcan Materials Company,Basic Materials,US
+MLM,"Martin Marietta Materials, Inc.",Basic Materials,US
+STLD,"Steel Dynamics, Inc.",Basic Materials,US
+PPG,"PPG Industries, Inc.",Basic Materials,US
+DOW,Dow Inc.,Basic Materials,US
+RS,Reliance Steel & Aluminum Co.,Basic Materials,US
+META,"Meta Platforms, Inc.",Communication Services,US
+NFLX,"Netflix, Inc.",Communication Services,US
+DIS,The Walt Disney Company,Communication Services,US
+VZ,Verizon Communications Inc.,Communication Services,US
+TMUS,"T-Mobile US, Inc.",Communication Services,US
+T,AT&T Inc.,Communication Services,US
+CMCSA,Comcast Corporation,Communication Services,US
+DASH,"DoorDash, Inc.",Communication Services,US
+LYV,"Live Nation Entertainment, Inc.",Communication Services,US
+OMC,Omnicom Group Inc.,Communication Services,US
+FOXA,Fox Corporation,Communication Services,US
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,US
+TSLA,"Tesla, Inc.",Consumer Cyclical,US
+HD,"The Home Depot, Inc.",Consumer Cyclical,US
+MCD,McDonald's Corporation,Consumer Cyclical,US
+TJX,"The TJX Companies, Inc.",Consumer Cyclical,US
+LOW,"Lowe's Companies, Inc.",Consumer Cyclical,US
+BKNG,Booking Holdings Inc.,Consumer Cyclical,US
+MAR,"Marriott International, Inc.",Consumer Cyclical,US
+ABNB,"Airbnb, Inc.",Consumer Cyclical,US
+HLT,Hilton Worldwide Holdings Inc.,Consumer Cyclical,US
+ORLY,"O'Reilly Automotive, Inc.",Consumer Cyclical,US
+CVNA,Carvana Co.,Consumer Cyclical,US
+ROST,"Ross Stores, Inc.",Consumer Cyclical,US
+WMT,Walmart Inc.,Consumer Defensive,US
+COST,Costco Wholesale Corporation,Consumer Defensive,US
+KO,The Coca-Cola Company,Consumer Defensive,US
+PG,The Procter & Gamble Company,Consumer Defensive,US
+PM,Philip Morris International Inc.,Consumer Defensive,US
+MO,"Altria Group, Inc.",Consumer Defensive,US
+MNST,Monster Beverage Corporation,Consumer Defensive,US
+MDLZ,"Mondelez International, Inc.",Consumer Defensive,US
+CL,Colgate-Palmolive Company,Consumer Defensive,US
+TGT,Target Corporation,Consumer Defensive,US
+KDP,Keurig Dr Pepper Inc.,Consumer Defensive,US
+KR,The Kroger Co.,Consumer Defensive,US
+SYY,Sysco Corporation,Consumer Defensive,US
+EL,The Estée Lauder Companies Inc.,Consumer Defensive,US
+XOM,Exxonmobil Holdings Corporation,Energy,US
+CVX,Chevron Corporation,Energy,US
+COP,ConocoPhillips,Energy,US
+MPC,Marathon Petroleum Corporation,Energy,US
+PSX,Phillips 66,Energy,US
+VLO,Valero Energy Corporation,Energy,US
+WMB,"The Williams Companies, Inc.",Energy,US
+EPD,Enterprise Products Partners L.P.,Energy,US
+EOG,"EOG Resources, Inc.",Energy,US
+SLB,Slb N.V.,Energy,US
+KMI,"Kinder Morgan, Inc.",Energy,US
+LNG,"Cheniere Energy, Inc.",Energy,US
+TRGP,Targa Resources Corp.,Energy,US
+MPLX,MPLX Lp,Energy,US
+OXY,Occidental Petroleum Corporation,Energy,US
+JPM,JPMorgan Chase & Co.,Financial Services,US
+BRK-B,Berkshire Hathaway Inc.,Financial Services,US
+V,Visa Inc.,Financial Services,US
+MA,Mastercard Incorporated,Financial Services,US
+MS,Morgan Stanley,Financial Services,US
+WFC,Wells Fargo & Company,Financial Services,US
+GS,"The Goldman Sachs Group, Inc.",Financial Services,US
+AXP,American Express Company,Financial Services,US
+C,Citigroup Inc.,Financial Services,US
+BLK,"BlackRock, Inc.",Financial Services,US
+SCHW,The Charles Schwab Corporation,Financial Services,US
+PGR,The Progressive Corporation,Financial Services,US
+BX,Blackstone Inc.,Financial Services,US
+SPGI,S&P Global Inc.,Financial Services,US
+JNJ,Johnson & Johnson,Healthcare,US
+ABBV,AbbVie Inc.,Healthcare,US
+MRK,"Merck & Co., Inc.",Healthcare,US
+UNH,UnitedHealth Group Incorporated,Healthcare,US
+TMO,Thermo Fisher Scientific Inc.,Healthcare,US
+AMGN,Amgen Inc.,Healthcare,US
+GILD,"Gilead Sciences, Inc.",Healthcare,US
+ABT,Abbott Laboratories,Healthcare,US
+PFE,Pfizer Inc.,Healthcare,US
+DHR,Danaher Corporation,Healthcare,US
+ISRG,"Intuitive Surgical, Inc.",Healthcare,US
+VRTX,Vertex Pharmaceuticals Incorporated,Healthcare,US
+MCK,McKesson Corporation,Healthcare,US
+BMY,Bristol-Myers Squibb Company,Healthcare,US
+SPCX,Space Exploration Technologies Corp.,Industrials,US
+RTX,RTX Corporation,Industrials,US
+GEV,GE Vernova Inc.,Industrials,US
+UNP,Union Pacific Corporation,Industrials,US
+DE,Deere & Company,Industrials,US
+BA,The Boeing Company,Industrials,US
+PH,Parker-Hannifin Corporation,Industrials,US
+WM,"Waste Management, Inc.",Industrials,US
+GD,General Dynamics Corporation,Industrials,US
+MMM,3M Company,Industrials,US
+CSX,CSX Corporation,Industrials,US
+CTAS,Cintas Corporation,Industrials,US
+WELL,Welltower Inc.,Real Estate,US
+PLD,"Prologis, Inc.",Real Estate,US
+EQIX,"Equinix, Inc.",Real Estate,US
+AMT,American Tower Corporation,Real Estate,US
+SPG,"Simon Property Group, Inc.",Real Estate,US
+DLR,"Digital Realty Trust, Inc.",Real Estate,US
+PSA,Public Storage,Real Estate,US
+O,Realty Income Corporation,Real Estate,US
+VTR,"Ventas, Inc.",Real Estate,US
+CBRE,"CBRE Group, Inc.",Real Estate,US
+CCI,Crown Castle Inc.,Real Estate,US
+EXR,Extra Space Storage Inc.,Real Estate,US
+IRM,Iron Mountain Incorporated,Real Estate,US
+VICI,VICI Properties Inc.,Real Estate,US
+VMRK,Vivmark Residential,Real Estate,US
+AAPL,Apple Inc.,Technology,US
+MSFT,Microsoft Corporation,Technology,US
+NVDA,NVIDIA Corporation,Technology,US
+AVGO,Broadcom Inc.,Technology,US
+ANT,Anthropic PBC,Technology,US
+AMD,"Advanced Micro Devices, Inc.",Technology,US
+CSCO,"Cisco Systems, Inc.",Technology,US
+PLTR,Palantir Technologies Inc.,Technology,US
+ORCL,Oracle Corporation,Technology,US
+PANW,"Palo Alto Networks, Inc.",Technology,US
+TXN,Texas Instruments Incorporated,Technology,US
+AMAT,"Applied Materials, Inc.",Technology,US
+CRWD,"CrowdStrike Holdings, Inc.",Technology,US
+NEE,"NextEra Energy, Inc.",Utilities,US
+SO,The Southern Company,Utilities,US
+DUK,Duke Energy Corporation,Utilities,US
+CEG,Constellation Energy Corporation,Utilities,US
+AEP,"American Electric Power Company, Inc.",Utilities,US
+D,"Dominion Energy, Inc.",Utilities,US
+XEL,Xcel Energy Inc.,Utilities,US
+ETR,Entergy Corporation,Utilities,US
+SRE,Sempra,Utilities,US
+EXC,Exelon Corporation,Utilities,US
+ED,"Consolidated Edison, Inc.",Utilities,US
+VST,Vistra Corp.,Utilities,US
+WEC,"WEC Energy Group, Inc.",Utilities,US
